@@ -5,4 +5,4 @@ Video en el que hago un pequeño análisis de datos. Analizo un DataFrame con in
 Video where I do a brief data analysis. I explore a DataFrame with information about my running sessions. Data analysis and running — two of my favorite things!
 
 ## Video
-[Video link:](https://www.youtube.com/watch?v=le0IhmlV7hU&t=242s)
+[Video link](https://www.youtube.com/watch?v=le0IhmlV7hU&t=242s)
